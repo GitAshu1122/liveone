@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>back.jfif</file>
+        <file>Fastfood.png</file>
+        <file>menu.png</file>
+        <file>order.png</file>
+        <file>Rateus.png</file>
+        <file>vegm.jpg</file>
+        <file>welcome.jpg</file>
+        <file>aboutus.jpg</file>
+        <file>FourthPage.qml</file>
+        <file>SecondPage.qml</file>
+        <file>StartingPage.qml</file>
+        <file>ThirdPage.qml</file>
+        <file>2.jfif</file>
+        <file>3.jfif</file>
+        <file>4.jfif</file>
+        <file>1.jfif</file>
+        <file>mainmenu.qml</file>
+        <file>veglist.qml</file>
+        <file>nonveglist.qml</file>
+        <file>continental.qml</file>
+        <file>feedback.qml</file>
+        <file>myorder.qml</file>
+        <file>menu_img.jpg</file>
+    </qresource>
+</RCC>
